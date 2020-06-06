@@ -1,7 +1,8 @@
 # Essay
-### Jacob Nelson
+## Jacob Nelson
 
 ## Reuter's: "Looking for Lead"
+[The map can be found here:](https://www.reuters.com/investigates/graphics/lead-water/en/)
 
 ## Introduction:
 
@@ -108,5 +109,9 @@ I also think the pop up window could stand to have some more details added. Just
 ## Reflection
 This map clearly serves the common good in a pretty understandable way. Flint Michigan's water crises was a horrific event that captured the public conciousness in a visceral way, and the same thing is happening all across the country. This sort of project could be used for a more directly practical goal, like parents picking a place to move that won't poison their kid, or activists looking for at risk locations to prioritize. However, spreading awareness, and keeping the issue of lead poisoning in the public conciousness is also important, as it makes it harder for those in a position to do something about it to ignore the problem.
 There's a pretty big power divide between the average person, and the business and political leaders who control our lives. Projects like this seem to amplify the Strengths of the little guy: Numbers.
+
+This also highlights the community's role in public health. Much like the COVID-19 epidemic requires social distancing and other actions by the public to prevent the disease from spreading, the lead problem needs awareness so it can be directly addressed.
+
+Its also noteworthy that, as highlighted by buffalo's example in the map. Many of the cases of lead poisoning occur in low income neighborhoods, where people may not be able to afford the kind of repairs and renovations needed to combat these problems, and where people may have difficulties affording doctor visits and blood work needed to identify elevated lead levels to begin with. There may be many cases not shown on the map.
 
 On the other hand, business in the information age thrives on gathering data. While examining the code, I was continually disturbed by the large percentage of code dedicated to tracking the viewer, and sending data to social media companies and google. There weren't any buttons to share the map on social media, which would've been understandable. Some of it might be for their own use, but its still an unfortunate reminder of the surveillance we live under.
