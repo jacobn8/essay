@@ -1,5 +1,5 @@
 # Essay
-## Jacob Nelson
+### Jacob Nelson
 
 ## Reuter's: "Looking for Lead"
 
