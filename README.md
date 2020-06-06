@@ -13,11 +13,11 @@ This was also released at the height to the crisis in Flint Michigan, and seeks 
 
 ### The Major functions
 
-![The Map](img/map.png)
+![The Map](img/map.PNG)
 The project itself is a webmap showing the percent of children in a given zip code or census tract whose blood tests showed elevated lead levels. Each zip code or census tract polygon is color coded based on th the percentage of children with elevated lead levels.
 ![Popup](img/map2.png)
 Each zip code area, when moused over, displays a pop up with more detailed information. This pop up shows the number of tested children, the percentage with elevated lead levels, the zip code, and state.
-![Drop down list](img/map3.png)
+![Drop down list](img/map3.PNG)
 The map also has a drop down list of 9 cities with particuarly high levels of lead in their children.
 Each option brings the to a preset zoom and extent to best view the problem area.
 It also gives a brief description of the nature of the city's lead problem
@@ -39,13 +39,13 @@ It also seems as though every map related file is stored on the same webserver: 
 
 ### Data
 Aside from their integrated social media tracking, the only data flowing between the client and server beyond the initial html, javascript, and CSS files seems to be leaflet map tiles.
-![From the network tab of the chrome console](img/code.png)
-![From the network tab of the chrome console](img/code2.png)
+![From the network tab of the chrome console](img/code.PNG)
+![From the network tab of the chrome console](img/code2.PNG)
 Most of the files appearing under the network tab when the webpage is run, and the map interacted with are pbf files and mvt files. Which are an XML alternative and mapbox vector tiles respectively.
 
 ### Libraries
 The code is a little difficult to parse considering just how much of it is dedicated to giving information to advertisers, but the code does also refrence leaflet, and Ajax.
-![It's all one line](img/code2.png)
+![It's all one line](img/code2.PNG)
 The authors of this map seem to have put most of their code into a javascript file that consists of one very long line of code.
 However, it doesn't show any non-tracking sources beyond ajax and leaflet.
 Leaflet is a open source javascript library that serves as the foundation for this map, and many others.
